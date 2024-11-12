@@ -6,4 +6,4 @@ Foi desenvolvida pela Equipe de Desenvolvimento do Serviço de Tecnologia da Inf
 
 Desenvolvimento assistido por Microsoft Copilot
 
-[LICENSE.md]
+[LICENSE]
