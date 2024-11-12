@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2024 kokbira
+Copyright (c) 2024 Serviço de Tecnologia da Informação - STI / Departamento
+Nacional de Obras Contra as Secas - DNOCS
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

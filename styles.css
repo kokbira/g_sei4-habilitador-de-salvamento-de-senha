@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+label {
+  font-size: 16px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+button {
+  font-size: 16px;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+}

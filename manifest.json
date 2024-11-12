@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "SEI4 Habilitador de Salvamento de Senha",
+  "version": "1.0",
+  "description": "Permite salvar credenciais na tela de login do SEI.",
+  "permissions": ["storage", "activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*/sip/login.php*"],
+      "js": ["content.js"]
+    }
+  ],
+  "options_page": "options.html",
+  "action": {
+    "default_popup": "options.html",
+    "default_icon": {
+      "16": "icons/icone.png",
+      "48": "icons/icone.png",
+      "128": "icons/icone.png"
+    }
+  }
+}
