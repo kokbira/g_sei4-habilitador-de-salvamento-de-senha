@@ -18,4 +18,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Distribuições
 
-Acesse a pasta "distribuicoes"
+Acesse a pasta ".distribuicoes"
