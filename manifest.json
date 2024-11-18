@@ -1,9 +1,9 @@
 {
   "manifest_version": 3,
   "name": "SEI4 Habilitador de Salvamento de Senha",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Permite salvar credenciais na tela de login do SEI.",
-  "permissions": ["storage", "activeTab", "scripting"],
+  "permissions": ["storage"],
   "background": {
     "service_worker": "background.js"
   },
